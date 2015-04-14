@@ -1,0 +1,16 @@
+c:\users\hieu\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\hieu\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\hieu\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\hieu\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\hieu\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\hieu\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\hieu\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\hieu\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\hieu\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\hieu\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\hieu\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+C:\Users\hieu\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form3.resources
+C:\Users\hieu\Desktop\hieunlpps02024_asmgd2_dientoandammay\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\hieu\Desktop\hieunlpps02024_asmgd2_dientoandammay\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\hieu\Desktop\hieunlpps02024_asmgd2_dientoandammay\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\hieu\Desktop\hieunlpps02024_asmgd2_dientoandammay\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
